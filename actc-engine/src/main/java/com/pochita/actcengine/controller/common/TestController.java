@@ -1,4 +1,4 @@
-package com.pochita.actcengine.controller;
+package com.pochita.actcengine.controller.common;
 
 import cn.hutool.core.util.RandomUtil;
 import com.pochita.actccommon.util.JsonData;

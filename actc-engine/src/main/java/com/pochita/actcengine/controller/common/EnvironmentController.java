@@ -1,4 +1,4 @@
-package com.pochita.actcengine.controller;
+package com.pochita.actcengine.controller.common;
 
 import com.pochita.actccommon.util.JsonData;
 import com.pochita.actcengine.req.common.EnvironmentDelReq;
@@ -7,7 +7,6 @@ import com.pochita.actcengine.req.common.EnvironmentUpdateReq;
 import com.pochita.actcengine.service.common.EnvironmentService;
 import jakarta.annotation.Resource;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.stereotype.Controller;
 
 /**
  * <p>
